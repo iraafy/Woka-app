@@ -3,7 +3,7 @@
 <?php $__env->startSection('container'); ?>
 	<div class="container">
 		<div class="row mt-5">
-			<div class="col-lg-5 col-sm-12">
+			<div class="col-lg-5 col-sm-12 mb-5">
 				<div class="row ms-3 me-3">
 					<div class="box">
 					<p style="text-align: right;"><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="bi bi-pencil-fill"></i></button></p>
